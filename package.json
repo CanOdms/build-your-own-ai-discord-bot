@@ -1,5 +1,5 @@
 {
-  "name": "discord-bot",
+  "name": "build-your-own-ai-discord-bot",
   "version": "1.0.0",
   "description": "AI-powered Discord bot with contextual conversations",
   "main": "index.js",

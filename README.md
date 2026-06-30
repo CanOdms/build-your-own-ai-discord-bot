@@ -1,8 +1,16 @@
-# Contextual AI Discord Bot
+# Build Your Own AI Discord Bot
 
 A lightweight Discord bot powered by OpenRouter. It supports contextual
 conversations, persistent conversation history, configurable rate limiting,
 and simple prefix commands.
+
+## Purpose
+
+This project lets anyone create and run a personal AI assistant inside Discord
+using their own Discord bot token and OpenRouter API key. It provides the bot
+infrastructure, commands, conversation memory, and safety controls so users can
+connect their credentials, choose a free or paid AI model, and start chatting
+without building a Discord integration from scratch.
 
 ## Features
 
